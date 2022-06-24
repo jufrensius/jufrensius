@@ -1,7 +1,4 @@
-# Jufrensius A. Barasa - @jufrensius
-**Hi there** 👋<br>
-I am a **fullstack web developer** 💻<br>
-I create a responsive and interactive website
+![Banner](https://raw.githubusercontent.com/jufrensius/jufrensius/main/Github.png)
 
 ### Get in touch
 - **Web** <a href="https://jufrensius.github.io">_jufrensius.github.io_</a>
