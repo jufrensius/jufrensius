@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/jufrensius/jufrensius/main/Github.png)
+![Banner](https://github.com/jufrensius/jufrensius/blob/7bd15de20e714540e4ead6fffee326d40325035b/assets/github.png)
 
 ### Get in touch
 - **Web** <a href="https://jufrensius.github.io">_jufrensius.github.io_</a>
